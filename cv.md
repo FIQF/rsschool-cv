@@ -2,7 +2,7 @@
 ***
 
 ![My Photo](m9IhgooUUfQ.png "11")
-**_JavaScript course student/Front-end 2022Q1_**
+JavaScript course student/Front-end 2022Q1
 
 
 #### Contacts: ####
@@ -31,5 +31,5 @@ _1. CS50 video course
 3. [Codewars](https://www.codewars.com/users/FIQF)_
 
 
-####Language: ####
+####Language: 
 _English level - B1_
