@@ -2,6 +2,7 @@
 ***
 
 ![My Photo](m9IhgooUUfQ.png "11")
+
 JavaScript course student/Front-end 2022Q1
 
 
@@ -26,10 +27,12 @@ function multiply(a, b){
 _Nothing yet…_
 
 #### Education and courses: ####
-_1. CS50 video course
+1. CS50 video course
 2. HTML Academy
-3. [Codewars](https://www.codewars.com/users/FIQF)_
+3. [Codewars](https://www.codewars.com/users/FIQF)
 
 
-####Language: 
+
+
+#### Language: 
 _English level - B1_
