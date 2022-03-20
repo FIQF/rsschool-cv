@@ -1,7 +1,7 @@
 # Igor Yamshikov # 
 ***
 
-![My Photo](m9IhgooUUfQ.png "11")
+![My Photo](m9IhgooUUfQ.png)
 
 JavaScript course student/Front-end 2022Q1
 
